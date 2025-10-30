@@ -1,4 +1,8 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+# CSE 210 – Programming with Classes
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
+**Student:** Bruno da Silva Costa
+**Week:** W01 – Learning Activity: Version Control
+**Date:** 2025-10-29
+
+**What I changed:** Updated README to include my name and removed the “This is the starter code.” line.
+**Purpose:** Verify the Git workflow (add → commit → push) and confirm changes on GitHub.
